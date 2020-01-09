@@ -13,7 +13,7 @@ def naming_system
     :label => "Genus",
     :sub_category => {
       :labl => "Species",
-    :sub_category => nil
+    :sub_category => "Species"
     }
   }
 }
