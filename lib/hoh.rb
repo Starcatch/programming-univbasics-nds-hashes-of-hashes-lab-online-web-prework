@@ -26,7 +26,16 @@ order = {
 }
 
 domain = {
-  :lable => "Kingdom",
+  :lable => "Kingdom", 
+   :sub_category => {
+     :label => "Phylum",
+     :sub_category => {
+       :label => "Class",
+        :sub_category => order 
+    }
+  }
+}
+  domain
 }
 
 
