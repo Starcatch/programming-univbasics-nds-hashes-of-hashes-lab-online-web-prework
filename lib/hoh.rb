@@ -18,13 +18,15 @@ def naming_system
   }
 }
 
+
+
 order = {
   :label => "Order",
   :sub_category => family
 }
 
- domain = {
-  :label => "Kingdom",
+domain = {
+  :lable => "Kingdom", 
    :sub_category => {
      :label => "Phylum",
      :sub_category => {
@@ -34,5 +36,7 @@ order = {
   }
 }
   domain
-end
+}
+
+
 
