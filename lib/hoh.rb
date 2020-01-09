@@ -6,17 +6,7 @@
 #
 
 
-def naming_system
-  family = {
-    :label => "Family",
-    :sub_category => {
-    :label => "Genus",
-    :sub_category => {
-      :labl => "Species",
-    :sub_category => "Species"
-    }
-  }
-}
+
 
 
 
