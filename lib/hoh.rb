@@ -38,5 +38,3 @@ order = {
   domain
 end
 
-
-
