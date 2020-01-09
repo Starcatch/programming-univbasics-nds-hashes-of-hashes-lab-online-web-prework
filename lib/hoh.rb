@@ -25,8 +25,8 @@ order = {
   :sub_category => family
 }
 
-domain = {
-  :lable => "Kingdom", 
+ domain = {
+  :label => "Kingdom",
    :sub_category => {
      :label => "Phylum",
      :sub_category => {
@@ -36,7 +36,7 @@ domain = {
   }
 }
   domain
-}
+end
 
 
 
