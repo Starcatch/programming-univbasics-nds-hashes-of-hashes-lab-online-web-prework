@@ -8,7 +8,7 @@
 
 def naming_system
   family = {
-
+:label => "Family",
 
 
 
